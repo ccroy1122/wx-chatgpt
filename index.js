@@ -1,4 +1,4 @@
-const { Configuration, OpenAIApi } = require('openai');
+const { Configuration, OpenAIApi } = require('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');
 const Koa = require('koa');
 const Router = require('koa-router');
 const logger = require('koa-logger');
